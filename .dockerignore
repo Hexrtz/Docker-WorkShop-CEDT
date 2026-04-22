@@ -13,6 +13,5 @@ Dockerfile
 .github
 .dockerignore
 node_modules
-**/node_modules
 
 
